@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="AvailableBooks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BooksAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bookDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="books_int.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BookUnavailable1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Borrow.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="History.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="mems_books.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="mems_int.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReturnForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
